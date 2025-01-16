@@ -7,6 +7,8 @@ The V2 of a basic CBG (closer to a turn-based RPG)
 This "game is rudimentary," more focused on mechanics than the enjoyment of gameplay.
 
 Several enemy classes are included, each with increasing strength and HP as classes are defeated (values can be adjusted—for instance, to ensure the game runs correctly, I set a regeneration usage limit of 80 with HP recovery ranging between 60 and 80).
+
+
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/19ec3a00-f4c3-4900-8066-ba08fa26f311" />
 
 
